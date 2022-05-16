@@ -1,4 +1,16 @@
-### Hi there 👋
+
+
+### 🌱ehdghk154
+
+## Skills
+### 📚Studying
+<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat-square&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-#1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+### 🛠Tools
+<img src="https://img.shields.io/badge/Eclipse-#2C2255?style=flat-square&logo=eclipseide&logoColor=white"/><img src="https://img.shields.io/badge/Apache Tomcat-#F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/><img src="https://img.shields.io/badge/Oracle-#F80000?style=flat-square&logo=oracle&logoColor=white"/><img src="https://img.shields.io/badge/Android-#3DDC84?style=flat-square&logo=android&logoColor=white"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdghk154&layout=compact)](https://github.com/ehdghk154/github-readme-stats)
+
 
 <!--
 **ehdghk154/ehdghk154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
