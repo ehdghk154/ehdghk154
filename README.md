@@ -1,9 +1,9 @@
 
-## 🌱ehdghk154
+## 🌱ehdghk154🌱
 안녕하세요. 신입 백엔드 개발자(예정) 신동화입니다.
 
 ## Skills
-### 📚Platforms & Language
+### 📚Platforms & Language📚
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 </p>
 
-### 🛠Tools
+### 🛠Tools🛠
 <p>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
@@ -20,15 +20,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
-
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdghk154&layout=compact)](https://github.com/ehdghk154/github-readme-stats)
-
-
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdghk154&show_icons=true&theme=default)
 
