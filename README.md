@@ -20,10 +20,13 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
+### 🎖Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdghk154&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📃GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdghk154&show_icons=true&theme=default)
 
+### ✏Baekjoon Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdghk154)](https://solved.ac/ehdghk154/)
 
 <!--
