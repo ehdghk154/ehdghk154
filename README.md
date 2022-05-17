@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdghk154&layout=compact)](https://github.com/ehdghk154/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdghk154&layout=compact)](https://github.com/ehdghk154/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdghk154&show_icons=true&theme=default)
 
