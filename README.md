@@ -1,9 +1,9 @@
 
-## 🌱ehdghk154🌱
+# 🌱ehdghk154
 안녕하세요. 신입 백엔드 개발자(예정) 신동화입니다.
 
-## Skills
-### 📚Platforms & Language📚
+## ✨Skills
+### 📚Platforms & Language
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 </p>
 
-### 🛠Tools🛠
+### 🛠Tools
 <p>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
@@ -23,6 +23,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdghk154&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdghk154&show_icons=true&theme=default)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdghk154)](https://solved.ac/ehdghk154/)
 
 <!--
 **ehdghk154/ehdghk154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
