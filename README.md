@@ -15,10 +15,10 @@
 </p>
 
 ### 🎖Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdghk154&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdghk154)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📃GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdghk154&show_icons=true&theme=default)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdghk154&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✏Baekjoon Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdghk154)](https://solved.ac/ehdghk154/)
